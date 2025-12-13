@@ -30,14 +30,15 @@
 		<note>
 			<item>Item A</item>
 			<item>Item b</item>
+			<item>Test release.</item>
 		</note>
 	</changelog>
 	<changelog>
-	<element>com_mitservices_risj5</element>
+		<element>com_mitservices_risj5</element>
 		<type>component</type>
 		<version>1.0.1</version>
 		<note>
-			<item>Item A</item>
+			<item>First official release.</item>
 		</note>
 	</changelog>
 </changelogs>
