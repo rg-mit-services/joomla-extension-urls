@@ -37,8 +37,8 @@
 		<type>component</type>
 		<version>1.0.0</version>
 		<note>
-			<item>Hello World!</item>
-			<item>First official release.</item>
+			<item>Hallo Welt!</item>
+			<item>Erste Version/Veröffentlichung der Erweiterung.</item>
 		</note>
 	</changelog>
 </changelogs>
